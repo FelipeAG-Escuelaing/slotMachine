@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SlotMachineCC2Test
+comment0.text=\r\n\ Pruebas\ unitarias\ compartidas\ para\ SlotMachine\ correspondientes\r\n\ al\ Ciclo\ 2.\r\n\r\n\ @author\ Felipe\ Amador\ Gonzalez\ -\ Jean\ Paolo\ Pena\ Romero\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=SlotMachineCC2Test()
+comment2.params=
+comment2.target=void\ setUp()
+comment3.params=
+comment3.target=void\ tearDown()
+comment4.params=
+comment4.target=void\ accordingGonzalezAPenaRShouldSwapWheels()
+comment4.text=\r\n\ Verifica\ que\ dos\ ruedas\ puedan\ intercambiar\ sus\ posiciones.\r\n
+comment5.params=
+comment5.target=void\ accordingGonzalezAPenaRShouldSpinWheel()
+comment5.text=\r\n\ Verifica\ que\ una\ rueda\ pueda\ girar\ una\ cantidad\ determinada\r\n\ de\ pasos.\r\n
+numComments=6

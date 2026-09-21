@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Movable
+comment0.text=\r\n\ Define\ las\ operaciones\ b\u00E1sicas\ de\ movimiento\r\n\ que\ pueden\ realizar\ las\ figuras.\r\n\r\n\ @author\ Felipe\ Amador\ Gonzalez\ -\ Jean\ Paolo\ Pena\ Romero\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ moveRight()
+comment2.params=
+comment2.target=void\ moveLeft()
+comment3.params=
+comment3.target=void\ moveUp()
+comment4.params=
+comment4.target=void\ moveDown()
+numComments=5

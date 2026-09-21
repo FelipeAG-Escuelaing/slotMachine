@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ Representa\ un\ c\u00EDrculo.\r\n\r\n\ @author\ Felipe\ Amador\ Gonzalez\ -\ Jean\ Paolo\ Pena\ Romero\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Circle()
+comment1.text=\r\n\ Constructor\ del\ c\u00EDrculo.\r\n
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\r\n\ Dibuja\ el\ c\u00EDrculo.\r\n
+comment3.params=
+comment3.target=void\ erase()
+comment3.text=\r\n\ Borra\ el\ c\u00EDrculo.\r\n
+comment4.params=newDiameter
+comment4.target=void\ changeSize(int)
+comment4.text=\r\n\ Cambia\ el\ tama\u00F1o\ del\ c\u00EDrculo.\r\n\r\n\ @param\ newDiameter\ nuevo\ di\u00E1metro.\r\n
+numComments=5

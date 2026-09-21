@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ Representa\ un\ rect\u00E1ngulo.\r\n\r\n\ @author\ Felipe\ Amador\ Gonzalez\ -\ Jean\ Paolo\ Pena\ Romero\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Rectangle()
+comment1.text=\r\n\ Constructor\ del\ rect\u00E1ngulo.\r\n
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\r\n\ Dibuja\ el\ rect\u00E1ngulo.\r\n
+comment3.params=
+comment3.target=void\ erase()
+comment3.text=\r\n\ Borra\ el\ rect\u00E1ngulo.\r\n
+comment4.params=newHeight\ newWidth
+comment4.target=void\ changeSize(int,\ int)
+comment4.text=\r\n\ Cambia\ el\ tama\u00F1o.\r\n\r\n\ @param\ newHeight\ nuevo\ alto.\r\n\ @param\ newWidth\ nuevo\ ancho.\r\n
+numComments=5

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=SlotMachineC4Test
+comment0.text=\r\n\ Pruebas\ unitarias\ para\ las\ nuevas\ funcionalidades\ del\ Ciclo\ 4.\r\n\r\n\ @author\ Felipe\ Amador\ Gonzalez\ -\ Jean\ Paolo\ Pena\ Romero\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ rebelWheelShouldNotBeDeleted()
+comment2.params=
+comment2.target=void\ rebelWheelShouldNotBeSwapped()
+comment3.params=
+comment3.target=void\ rebelWheelShouldNotBeLocked()
+comment4.params=
+comment4.target=void\ leftyWheelShouldSpinInOppositeDirection()
+comment5.params=
+comment5.target=void\ ephemeralSymbolShouldBecomeSmaller()
+comment6.params=
+comment6.target=void\ shySymbolShouldAlternateVisibility()
+comment7.params=
+comment7.target=void\ comodinShouldRepresentAnyColor()
+numComments=8

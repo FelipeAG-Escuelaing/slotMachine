@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Symbol
+comment0.text=\r\n\ Clase\ abstracta\ que\ representa\ un\ s\u00EDmbolo\r\n\ de\ la\ m\u00E1quina\ tragamonedas.\r\n\r\n\ @author\ Felipe\ Amador\ Gonzalez\ -\ Jean\ Paolo\ Pena\ Romero\r\n\ @version\ 1.0\r\n
+comment1.params=color
+comment1.target=Symbol(java.lang.String)
+comment2.params=
+comment2.target=void\ select()
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment4.params=newColor
+comment4.target=void\ changeColor(java.lang.String)
+comment5.params=
+comment5.target=boolean\ isVisible()
+comment6.params=newVisibility
+comment6.target=void\ setVisible(boolean)
+numComments=7

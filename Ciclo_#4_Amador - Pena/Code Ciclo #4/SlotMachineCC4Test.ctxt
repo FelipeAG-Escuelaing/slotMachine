@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SlotMachineCC4Test
+comment0.text=\r\n\ Pruebas\ unitarias\ compartidas\ para\ SlotMachine\ correspondientes\r\n\ al\ Ciclo\ 4.\r\n\r\n\ @author\ Felipe\ Amador\ Gonzalez\ -\ Jean\ Paolo\ Pena\ Romero\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=SlotMachineCC4Test()
+comment2.params=
+comment2.target=void\ setUp()
+comment3.params=
+comment3.target=void\ tearDown()
+comment4.params=
+comment4.target=void\ accordingGonzalezAPenaRShouldNotLockRebelWheel()
+comment4.text=\r\n\ Verifica\ que\ una\ rueda\ rebelde\ no\ pueda\ bloquearse.\r\n
+comment5.params=
+comment5.target=void\ accordingGonzalezAPenaRShouldSpinLeftyInOppositeDirection()
+comment5.text=\r\n\ Verifica\ que\ una\ rueda\ lefty\ gire\ en\ sentido\ contrario.\r\n
+numComments=6

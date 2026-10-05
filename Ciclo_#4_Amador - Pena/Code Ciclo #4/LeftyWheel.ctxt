@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LeftyWheel
+comment0.text=\r\n\ Representa\ una\ rueda\ lefty.\r\n\r\n\ Una\ rueda\ lefty\ necesita\ una\ rueda\ a\ su\ izquierda\r\n\ y,\ al\ girar,\ copia\ el\ estado\ visible\ de\ esa\ rueda.\r\n\r\n\ @author\ Felipe\ Amador\ Gonzalez\ -\ Jean\ Paolo\ Pena\ Romero\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=LeftyWheel()
+comment1.text=\r\n\ Constructor.\r\n
+comment2.params=wheel
+comment2.target=void\ setLeftWheel(Wheel)
+comment2.text=\r\n\ Asigna\ la\ rueda\ que\ est\u00E1\ a\ la\ izquierda.\r\n\r\n\ @param\ wheel\ rueda\ de\ la\ izquierda.\r\n
+comment3.params=steps
+comment3.target=void\ spin(int)
+comment3.text=\r\n\ Gira\ la\ rueda\ lefty.\r\n\r\n\ Al\ girar,\ copia\ el\ estado\ visible\ de\ la\r\n\ rueda\ que\ est\u00E1\ inmediatamente\ a\ su\ izquierda.\r\n\r\n\ @param\ steps\ cantidad\ de\ pasos.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getVisibleSymbol()
+comment4.text=\r\n\ Retorna\ el\ s\u00EDmbolo\ visible.\r\n\r\n\ Si\ la\ rueda\ ya\ copi\u00F3\ el\ estado\ de\ la\ rueda\r\n\ izquierda,\ retorna\ ese\ s\u00EDmbolo.\r\n\r\n\ @return\ s\u00EDmbolo\ visible.\r\n
+comment5.params=
+comment5.target=Symbol\ getVisibleSymbolObject()
+comment5.text=\r\n\ Retorna\ el\ objeto\ Symbol\ visible.\r\n\r\n\ @return\ s\u00EDmbolo\ visible.\r\n
+numComments=6
